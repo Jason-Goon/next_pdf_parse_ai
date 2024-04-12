@@ -17,6 +17,10 @@ git clone https://github.com/yourusername/nextjs_pdf_parse_ai
 # Navigate to the project directory
 cd nextjs_pdf_parse_ai
 
+# Store your key in .env.local
+echo "API_KEY=your_api_key_here" > .env.local
+
+
 # Install dependencies
 npm install
 
@@ -64,6 +68,9 @@ git clone https://github.com/yourusername/nextjs_pdf_parse_ai
 
 # Siirry projektin hakemistoon
 cd nnextjs_pdf_parse_ai
+
+# Tallenna avain tiedostoon .env.local
+echo "API_KEY=your_api_key_here" > .env.local
 
 # Asenna riippuvuudet
 npm install
