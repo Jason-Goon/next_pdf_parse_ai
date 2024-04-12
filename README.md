@@ -44,3 +44,53 @@ http://localhost:3000
 
 This project is licensed under the Zero-Clause BSD License - see the [LICENSE](LICENSE) file for details.
 
+
+
+# Next.js TypeScript PDF-tiedostojen käsittely ja vuorovaikutus OpenAI:n kanssa
+
+Tämä repositorio sisältää React-pohjaisen Next.js-sovelluksen, joka digitalisoi ainutlaatuisen prosessin PDF-dokumenttien käsittelyyn, kyselyjen luomiseen puretusta tekstistä ja vuorovaikutukseen OpenAI:n kanssa vastausten generoimiseksi.
+
+## Tietoja Projektista
+
+Tämä sovellus käyttää TypeScriptiä ja Reactia Next.js-kehyksessä PDF-tiedostojen lataamiseen, tekstin purkamiseen ja tämän tekstin käyttämiseen kyselyjen luomiseen, jotka lähetetään OpenAI:n API:lle. OpenAI:n vastaukset näytetään käyttäjälle, tarjoten suoraviivaisen opetustyökalun AI-pohjaiseen tekstivuorovaikutukseen.
+
+## Aloitusohjeet
+
+Aloittaaksesi tämän projektin lokaalisti, seuraa näitä vaiheita:
+
+```bash
+# Kloonaa repositorio
+git clone https://github.com/yourusername/nextjs-openai-pdf-parser.git
+
+# Siirry projektin hakemistoon
+cd nextjs-openai-pdf-parser
+
+# Asenna riippuvuudet
+npm install
+
+# Käynnistä sovellus
+npm run dev
+
+# Avaa selain ja siirry osoitteeseen:
+http://localhost:3000
+```
+
+## Ominaisuudet
+
+- **PDF-tekstin purku**: Lataa PDF-tiedostoja ja pura teksti.
+- **Interaktiiviset AI-kyselyt**: Käytä purettua tekstiä kyselyiden luomiseen, jotka lähetetään OpenAI:lle.
+- **Dynaamiset Vastaukset**: Näytä OpenAI:n vastaukset dynaamisesti.
+
+## Käytetyt Teknologiat
+
+- Next.js
+- React
+- TypeScript
+- OpenAI API
+
+## Lisenssi
+
+Tämä projekti on lisensoitu Zero-Clause BSD -lisenssillä - katso [LICENSE](LICENSE) tiedosto lisätietoja varten.
+
+
+
