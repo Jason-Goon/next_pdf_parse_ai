@@ -12,10 +12,10 @@ To get started with this project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/nextjs-openai-pdf-parser.git
+git clone https://github.com/yourusername/nextjs_pdf_parse_ai
 
 # Navigate to the project directory
-cd nextjs-openai-pdf-parser
+cd nextjs_pdf_parse_ai
 
 # Install dependencies
 npm install
@@ -60,10 +60,10 @@ Aloittaaksesi tämän projektin lokaalisti, seuraa näitä vaiheita:
 
 ```bash
 # Kloonaa repositorio
-git clone https://github.com/yourusername/nextjs-openai-pdf-parser.git
+git clone https://github.com/yourusername/nextjs_pdf_parse_ai
 
 # Siirry projektin hakemistoon
-cd nextjs-openai-pdf-parser
+cd nnextjs_pdf_parse_ai
 
 # Asenna riippuvuudet
 npm install
