@@ -20,7 +20,6 @@ cd nextjs_pdf_parse_ai
 # Store your key in .env.local
 echo "API_KEY=your_api_key_here" > .env.local
 
-
 # Install dependencies
 npm install
 
